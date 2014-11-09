@@ -4,3 +4,5 @@ ServoShield
 Проект сделан на базе платформы Arduino для МК atMega 168/328.
 
 Подойдет для UNO/Nano/Mini
+
+Страничка проекта: http://rc-master.ucoz.ru/publ/27-1-0-118
